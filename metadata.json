@@ -1,0 +1,6 @@
+{
+  "name": "Arzoo Timber & Furniture",
+  "description": "Offline catalogue for Arzoo Timber & Furniture with customizable timber types, finishes, sizes, real-time pricing calculator, and up to 200 item capacity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

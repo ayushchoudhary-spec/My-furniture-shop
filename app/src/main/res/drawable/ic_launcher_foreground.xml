@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Furniture Armchair and Timber Craft Icon within 66dp safe area (21 to 87) -->
+    <!-- Chair backrest and cushion -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M38,34 C38,30 42,28 54,28 C66,28 70,30 70,34 L70,52 C70,54 68,56 65,56 L43,56 C40,56 38,54 38,52 Z" />
+    <!-- Left armrest -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M31,43 C31,40 33,39 36,39 L38,39 L38,58 L36,58 C33,58 31,56 31,53 Z" />
+    <!-- Right armrest -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M70,39 L72,39 C75,39 77,40 77,43 L77,53 C77,56 75,58 72,58 L70,58 Z" />
+    <!-- Seat Base Cushion -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M34,55 L74,55 C76,55 77,57 77,59 L77,63 C77,65 75,66 73,66 L35,66 C33,66 31,65 31,63 L31,59 C31,57 32,55 34,55 Z" />
+    <!-- Front Wooden Tapered Legs -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M35,66 L32,80 L36,80 L38,66 Z" />
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M73,66 L76,80 L72,80 L70,66 Z" />
+    <!-- Center Timber Grain Craft Badge -->
+    <path
+        android:fillColor="#D7CCC8"
+        android:pathData="M51,40 L57,40 L57,42 L51,42 Z" />
+    <path
+        android:fillColor="#D7CCC8"
+        android:pathData="M48,46 L60,46 L60,48 L48,48 Z" />
+</vector>
